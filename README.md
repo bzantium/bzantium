@@ -11,3 +11,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minho-ryu-21197712b/)](https://www.linkedin.com/in/minho-ryu-21197712b/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ryumin93@gmail.com)](mailto:ryumin93@gmail.com)
+[![Google Scholar Badge](https://img.shields.io/badge/-Scholar-4285f4?style=flat&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?hl=en&user=fwO6aUQAAAAJ)](https://scholar.google.com/citations?hl=en&user=fwO6aUQAAAAJ) 
