@@ -1,16 +1,13 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbzantium)](https://hits.seeyoufarm.com) 
+## Machine Learning Engineer @SK Telecom
+- Developing Automation System for Natural Language Processing
 
-<!--
-**bzantium/bzantium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interest
+- Machine Learning / Deep Learning Research
+- MLOps (Machine Learning Operation)
 
-Here are some ideas to get you started:
+![bzantium's github stats](https://github-readme-stats.vercel.app/api?username=bzantium&show_icons=true&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bzantium&layout=compact)](https://github.com/bzantium/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minho-ryu-21197712b/)](https://www.linkedin.com/in/minho-ryu-21197712b/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryumin93@gmail.com)](mailto:ryumin93@gmail.com)
