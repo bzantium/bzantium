@@ -3,7 +3,7 @@
 - Developing Automation System for Natural Language Processing
 
 ## Interest
-- Machine Learning / Deep Learning Research
+- Machine Learning / Deep Learning / Natural Language Processing Research
 - MLOps (Machine Learning Operation)
 
 ![bzantium's github stats](https://github-readme-stats.vercel.app/api?username=bzantium&show_icons=true&theme=vue)
