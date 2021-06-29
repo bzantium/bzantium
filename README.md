@@ -1,5 +1,5 @@
 ## Machine Learning Engineer @SK Telecom
-- Developing Automation System for Natural Language Processing
+- Developing Automation System for Deep Learning
 
 ## Interest
 - Machine Learning / Deep Learning / Natural Language Processing Research
