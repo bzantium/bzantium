@@ -1,6 +1,6 @@
 ## Machine Learning Engineer @SK Telecom
 - Developing Multimodal AI Service at [SKT A.](https://play.google.com/store/apps/details?id=com.skt.nugu.apollo)
-  - #1. AI 지우개 (Object Removal with Image Inpainting)
+  - AI 지우개 (Object Removal with Image Inpainting)
 
 ## Interest
 - Machine Learning / Deep Learning / Natural Language Processing Research
