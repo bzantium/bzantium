@@ -1,5 +1,6 @@
 ## Machine Learning Engineer @SK Telecom & EleutherAI
-- Developing Multimodal AI Service at [SKT A.](https://play.google.com/store/apps/details?id=com.skt.nugu.apollo)
+- Developing Large Language Model for SK Telecom
+- Developed Multimodal AI Service at [SKT A.](https://play.google.com/store/apps/details?id=com.skt.nugu.apollo)
   - AI Eraser (Object Removal with Image Inpainting)
     - role: project manager & implementation of pipeline algorithm (segmentation postprocessing & enhancement in inpainting performance).
 - Developing [polyglot](https://github.com/EleutherAI/polyglot) and [oslo](https://github.com/eleutherai/oslo) project at [EleutherAI](https://www.eleuther.ai/)
