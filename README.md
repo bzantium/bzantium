@@ -5,7 +5,7 @@
     - role: project manager & implementation of pipeline algorithm (segmentation postprocessing & enhancement in inpainting performance).
 - Developing [polyglot](https://github.com/EleutherAI/polyglot) and [oslo](https://github.com/eleutherai/oslo) project at [EleutherAI](https://www.eleuther.ai/)
   - polyglot: Large Language Models of Well-balanced Competence in Multi-languages
-    - role: distributed training of LM with Megatron LM & data crawling and preprocessing. Published [1.3B](https://huggingface.co/EleutherAI/polyglot-ko-1.3b), [3.8B](https://huggingface.co/EleutherAI/polyglot-ko-3.8b), [5.8B](https://huggingface.co/EleutherAI/polyglot-ko-5.8b), [12.8B](https://huggingface.co/EleutherAI/polyglot-ko-12.8b) polyglot-ko models.
+    - role: distributed training of LM with Megatron LM & data crawling, preprocessing and model evaluaton. Published [1.3B](https://huggingface.co/EleutherAI/polyglot-ko-1.3b), [3.8B](https://huggingface.co/EleutherAI/polyglot-ko-3.8b), [5.8B](https://huggingface.co/EleutherAI/polyglot-ko-5.8b), [12.8B](https://huggingface.co/EleutherAI/polyglot-ko-12.8b) polyglot-ko models.
   - oslo: Open Source for Large-scale Optimization
     - role: tensor parallel 1D, 2D, 3D implementation.
 
