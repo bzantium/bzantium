@@ -1,3 +1,6 @@
+## LLM Researcher @Kakaobrain
+- Developing Language Foundation Model a.k.a. KoGPT2
+
 ## Machine Learning Engineer @SK Telecom & EleutherAI
 - Developing Large Language Model for SK Telecom
 - Developed Multimodal AI Service at [SKT A.](https://play.google.com/store/apps/details?id=com.skt.nugu.apollo)
