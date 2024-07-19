@@ -1,12 +1,16 @@
-## [2023.08 - Current] LLM Researcher @Kakaobrain
-- Developing Language Foundation Model a.k.a. KoGPT2
+## [2024.06 - Current] LLM Researcher @Kakao
+- Developing Decoder based Embedding Models
+- Developing Korean LLM on TPUs
+
+## [2023.08 - 2024.05] LLM Researcher @Kakaobrain
+- Developed Korean Language Foundation Model a.k.a. KoGPT2
 
 ## [2020.03 - 2023.08] Machine Learning Engineer @SK Telecom & EleutherAI
-- Developing Large Language Model for SK Telecom
+- Developed Large Language Model for SK Telecom
 - Developed Multimodal AI Service at [SKT A.](https://play.google.com/store/apps/details?id=com.skt.nugu.apollo)
   - AI Eraser (Object Removal with Image Inpainting)
     - role: project manager & implementation of pipeline algorithm (segmentation postprocessing & enhancement in inpainting performance).
-- Developing [polyglot](https://github.com/EleutherAI/polyglot) and [oslo](https://github.com/eleutherai/oslo) project at [EleutherAI](https://www.eleuther.ai/)
+- Developed [polyglot](https://github.com/EleutherAI/polyglot) and [oslo](https://github.com/eleutherai/oslo) project at [EleutherAI](https://www.eleuther.ai/)
   - polyglot: Large Language Models of Well-balanced Competence in Multi-languages
     - role: distributed training of LM with Megatron LM & data crawling, preprocessing and model evaluaton. Published [1.3B](https://huggingface.co/EleutherAI/polyglot-ko-1.3b), [3.8B](https://huggingface.co/EleutherAI/polyglot-ko-3.8b), [5.8B](https://huggingface.co/EleutherAI/polyglot-ko-5.8b), [12.8B](https://huggingface.co/EleutherAI/polyglot-ko-12.8b) polyglot-ko models.
   - oslo: Open Source for Large-scale Optimization
