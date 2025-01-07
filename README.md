@@ -3,7 +3,7 @@
 - Developing Korean LLM on TPUs
 
 ## [2023.08 - 2024.05] LLM Researcher @Kakaobrain
-- Developed Korean Language Foundation Model a.k.a. KoGPT2
+- Developed Korean Language Foundation Model a.k.a. KoGPT2 (66B)
 
 ## [2020.03 - 2023.08] Machine Learning Engineer @SK Telecom & EleutherAI
 - Developed Large Language Model for SK Telecom
