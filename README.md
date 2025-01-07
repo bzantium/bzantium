@@ -1,6 +1,6 @@
 ## [2024.06 - Current] LLM Researcher @Kakao
-- Developing Decoder based Embedding Models
-- Developing Korean LLM on TPUs
+- Develop Decoder based Embedding Models (LLM2Vec)
+- Develop Proprietary LLM on TPUs
 
 ## [2023.08 - 2024.05] LLM Researcher @Kakaobrain
 - Developed Korean Language Foundation Model a.k.a. KoGPT2 (66B)
