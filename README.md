@@ -1,5 +1,5 @@
 ## [2024.06 - Current] LLM Researcher @Kakao
-- Develop Decoder based Embedding Models (LLM2Vec)
+- Develop Decoder based Embedding Models
 - Develop Proprietary LLM on TPUs
 
 ## [2023.08 - 2024.05] LLM Researcher @Kakaobrain
