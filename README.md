@@ -14,9 +14,9 @@ My expertise covers the full lifecycle of foundation models: from curating massi
 
 ### 🚀 Key Professional Highlights
 
-  * **Foundation Model Development:** Co-led the end-to-end pre-training of Kakao's **Kanana V1** foundation model from a 3T token dataset. Spearheaded key enhancements for **Kanana-1.5**, including its 128K long-context extension, and owned the full development of an embedding model that surpassed larger competitors.
-  * **Scalable AI Infrastructure:** Architected and optimized a cutting-edge, scalable LLM training pipeline from the ground up using **JAX, MaxText, and TPUs**. My work and expertise in this area were recognized and presented at **Google Cloud Next 2025**.
-  * **Open Source Leadership:** As a Research Lead at **EleutherAI**, I co-led the development of **Polyglot-Ko**, the first open-source Korean large language model, successfully training and releasing models up to 12.8B parameters.
+  * **Foundation Model Development:** Co-led the end-to-end pre-training of Kakao's **Kanana V1** foundation model from a 3T token dataset and implemented compute-efficient scaling techniques like **Pruning & Distillation**. I also spearheaded key enhancements for **Kanana-1.5** (including its 128K long-context extension) and owned the full development of a production embedding model that surpassed larger competitors.
+  * **Scalable AI Infrastructure:** Architected and optimized a cutting-edge, scalable LLM training pipeline from the ground up using **JAX, MaxText, and TPUs**. This work was featured in an official **[Google Cloud Blog Post](https://cloud.google.com/blog/products/infrastructure-modernization/kakaos-journey-with-jax-and-cloud-tpus?hl=en)** and my expertise was recognized with a presentation at **[Google Cloud Next 2025 (YouTube)](https://youtu.be/fcI9A-pjNlU?t=482)**.
+  * **Open Source Leadership:** As a Research Lead at **EleutherAI**, I co-led the development of **[Polyglot-Ko](https://github.com/eleutherai/polyglot)**, the first open-source Korean large language model, successfully training and releasing models up to 12.8B parameters.
 
 ### 🐙 Open Source Contributions
 
